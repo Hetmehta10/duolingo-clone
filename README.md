@@ -2,8 +2,8 @@
 
 A functional clone of the Duolingo web application built for the SDE Fullstack assignment. It reproduces Duolingo's winding learning path, the five-exercise lesson loop, and the full gamification layer — XP, streaks, hearts, crowns, achievements, legendary unit challenges and a live leaderboard — with every piece of learner progress persisted server-side.
 
-**Live demo:** _<add the Vercel URL>_
-**API:** _<add the backend URL>_ — interactive docs at `/docs`
+**Live demo:** _<https://duolingo-cloned.vercel.app>_
+**API:** _<https://duolingo-clone-api-li7k.onrender.com>_ — interactive docs at `/docs`
 **Repository:** https://github.com/hetmehta10/duolingo-clone
 
 ---
